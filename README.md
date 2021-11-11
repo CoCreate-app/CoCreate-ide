@@ -2,10 +2,10 @@
 
 A convenient chain handler allows user to chain multiple CoCreate components together. When one ide is complete next one will start. The sequence goes untill all ides completed. Grounded on Vanilla javascript, easily configured using HTML5 data-attributes and/or JavaScript API. Take it for a spin in our [playground!](https://cocreate.app/docs/ide)
 
-![GitHub file size in bytes](https://img.shields.io/github/size/CoCreate-app/CoCreate-ide/dist/CoCreate-ide.min.js?label=minified%20size&style=for-the-badge)
-![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-ide?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/CoCreate-app/CoCreate-ide?style=for-the-badge)
-![GitHub labels](https://img.shields.io/github/labels/CoCreate-app/CoCreate-ide/help%20wanted?style=for-the-badge)
+![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-ide?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/CoCreate-app/CoCreate-ide?style=flat-square)
+![License](https://img.shields.io/static/v1?style=flat-square&label=license&message=AGPL-3.0&color=green)
+![Hiring](https://img.shields.io/static/v1?style=flat-square&label=&message=Hiring&color=blueviolet)
 
 ![CoCreate-ide](https://cdn.cocreate.app/docs/CoCreate-ide.gif)
 
@@ -70,6 +70,14 @@ We want this library to be community-driven, and CoCreate led. We need your help
 
 We appreciate your continued support, thank you!
 
-# License
+<a name="license"></a>
+# Dual License
+## Open Source
+[GNU Affero General Public License version 3 (AGPL-3.0)](https://github.com/CoCreate-app/CoCreate-ide/blob/master/LICENSE)
 
-[The MIT License (MIT)](https://github.com/CoCreate-app/CoCreate-ide/blob/master/LICENSE)
+## Commercial
+The commercial license is designed for you to use CoCreate-ide in commercial 
+products and applications, without the provisions of the GPLv3. With the 
+commercial license, your code is kept propietary, to yourself. If you 
+want to use CoCreate-ide to develop commercial sites, themes, projects, and 
+applications, the commercial license is the appropriate license.
