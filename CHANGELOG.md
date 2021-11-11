@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/CoCreate-app/CoCreate-ide/compare/v1.0.2...v1.0.3) (2021-11-11)
+
+
+### Bug Fixes
+
+* update readme ([4d57fbb](https://github.com/CoCreate-app/CoCreate-ide/commit/4d57fbb2d94aaedeb4d67a74dd991348b09ac317))
+
 ## [1.0.2](https://github.com/CoCreate-app/CoCreate-ide/compare/v1.0.1...v1.0.2) (2021-11-11)
 
 
