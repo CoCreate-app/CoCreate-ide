@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/CoCreate-app/CoCreate-ide/compare/v1.0.4...v1.0.5) (2022-02-09)
+
+
+### Bug Fixes
+
+* add document_id to CoCreate.config ([cc2ae31](https://github.com/CoCreate-app/CoCreate-ide/commit/cc2ae31499ea64604ab11e50bc91929cbcd77480))
+
 ## [1.0.4](https://github.com/CoCreate-app/CoCreate-ide/compare/v1.0.3...v1.0.4) (2022-02-09)
 
 
