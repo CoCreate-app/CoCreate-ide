@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/CoCreate-app/CoCreate-ide/compare/v1.0.5...v1.0.6) (2022-02-28)
+
+
+### Bug Fixes
+
+* config docs wildcard * domain ([2b4ade1](https://github.com/CoCreate-app/CoCreate-ide/commit/2b4ade1d3b5ddc64ba21ecaaeef6fb61f008f1fb))
+
 ## [1.0.5](https://github.com/CoCreate-app/CoCreate-ide/compare/v1.0.4...v1.0.5) (2022-02-09)
 
 
