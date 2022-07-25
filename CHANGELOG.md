@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/CoCreate-app/CoCreate-ide/compare/v1.0.7...v1.0.8) (2022-07-25)
+
+
+### Bug Fixes
+
+* pass-fetch_value updated to pass-filter-value ([9516a03](https://github.com/CoCreate-app/CoCreate-ide/commit/9516a03bd11ff853e9cbde95c8e88e2459d078ed))
+
 ## [1.0.7](https://github.com/CoCreate-app/CoCreate-ide/compare/v1.0.6...v1.0.7) (2022-05-06)
 
 
