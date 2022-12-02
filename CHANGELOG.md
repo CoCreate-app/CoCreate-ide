@@ -1,3 +1,10 @@
+## [1.0.24](https://github.com/CoCreate-app/CoCreate-ide/compare/v1.0.23...v1.0.24) (2022-12-02)
+
+
+### Bug Fixes
+
+* docs ([585b11a](https://github.com/CoCreate-app/CoCreate-ide/commit/585b11ae5a968a8af3198352080871a257d20147))
+
 ## [1.0.23](https://github.com/CoCreate-app/CoCreate-ide/compare/v1.0.22...v1.0.23) (2022-12-02)
 
 
