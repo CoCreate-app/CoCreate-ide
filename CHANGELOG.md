@@ -1,3 +1,10 @@
+## [1.0.25](https://github.com/CoCreate-app/CoCreate-ide/compare/v1.0.24...v1.0.25) (2022-12-04)
+
+
+### Bug Fixes
+
+* bump dependencies ([43411bf](https://github.com/CoCreate-app/CoCreate-ide/commit/43411bf805f9c320bf1e523d037678dd6ad4455b))
+
 ## [1.0.24](https://github.com/CoCreate-app/CoCreate-ide/compare/v1.0.23...v1.0.24) (2022-12-02)
 
 
