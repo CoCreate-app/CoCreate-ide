@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/ide",
-  "version": "1.0.34",
+  "version": "1.0.35",
   "description": "A simple ide component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
   "keywords": [
     "ide",
@@ -20,14 +20,18 @@
     "html5-framework",
     "javascript-framework"
   ],
-  "publishConfig": { "access": "public" },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CoCreate-app/CoCreate-ide.git"
   },
   "author": "CoCreate LLC",
   "license": "MIT",
-  "bugs": { "url": "https://github.com/CoCreate-app/CoCreate-ide/issues" },
+  "bugs": {
+    "url": "https://github.com/CoCreate-app/CoCreate-ide/issues"
+  },
   "homepage": "https://cocreate.app/docs/ide",
   "funding": {
     "type": "GitHub Sponsors ❤",
@@ -48,7 +52,9 @@
     "@theia/search-in-workspace": "next",
     "@theia/terminal": "next"
   },
-  "devDependencies": { "@theia/cli": "next" },
+  "devDependencies": {
+    "@theia/cli": "next"
+  },
   "scripts": {
     "prepare": "yarn run clean && yarn build && yarn run download:plugins",
     "clean": "theia clean",
